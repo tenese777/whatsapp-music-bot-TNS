@@ -22,4 +22,16 @@ const en = {
   HELP_HELP: '*Command:* help\n*Description:* Show this message',
 };
 
-export default { br, en };
+const id = {
+  CONNECTED: 'Berhasil terhubung!',
+  DOWNLOAD_STARTED: '*UNDUH DIMULAI:* _Tindakan ini dapat memakan waktu beberapa menit_',
+  ERROR: 'Kesalahan untuk menyelesaikan operasi.',
+  SEARCHING_FOR: '*Mencari*',
+  FOUNDED: '*Menemukan*',
+  AVAILABLE_COMMANDS: '*Perintah yang tersedia:*',
+  HELP_PLAY:
+    '*Perintah:* play\n*Keterangan:* Putar audio video youtube',
+  HELP_HELP: '*Perintah:* help\n*Keterangan:* Tunjukkan pesan ini',
+};
+
+export default { br, en, id };
