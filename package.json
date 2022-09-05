@@ -1,13 +1,13 @@
 {
-  "name": "whatsapp_music_bot",
-  "description": "Turn your number into a DJ!",
+  "name": "whatsapp_music_bot_TNS",
+  "description": "Dengarkan Musik di TNS Music Bot",
   "version": "3.1.0",
   "main": "main.ts",
   "license": "MIT",
   "author": {
-    "email": "eyervictor@gmail.com",
-    "name": "Victor Eyer",
-    "url": "https://github.com/mlg404"
+    "email": "tnsmetaverse@gmail.com",
+    "name": "T|N|S META",
+    "url": "https://lh3.googleusercontent.com/a-/AFdZucoBL18qpSrVVYIyT4KeCSeZsshGf2vwDh7cSb8O=s288-p-rw-no"
   },
   "scripts": {
     "start": "ts-node-dev --transpile-only --ignore-watch node_modules src/main.ts"
